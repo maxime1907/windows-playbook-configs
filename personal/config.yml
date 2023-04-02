@@ -37,6 +37,7 @@ choco_installed_packages:
   - choco-cleaner
   - filezilla
   - kodi
+  - mailspring
   - mediainfo
   - mpv
   - qbittorrent
